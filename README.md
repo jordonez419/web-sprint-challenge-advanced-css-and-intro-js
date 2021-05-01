@@ -23,9 +23,21 @@ Commit your code regularly and meaningfully.
 Please answer the following questions below, you may edit the readme file to include your answers below the question.
 
 1. How would you describe acessibility on the web to someone new to programming?
+
+Accesibility programming is the idea of making sure that our code is user friendly for any and all people who may have a a disability or visual impairment. This means making sure our html has semantic meaning so that those with screen readers can access our sites with ease.
+
 2. Talk about 3 different things you can do to ensure your website is accessible. 
+1: Use semantic tags that have appropriate meaning
+2: Not use colors that many people have a color blindness to
+3:Using Labels in our forms
+
 3. How would you explain the concept of a variable to someone new to programming?
+
+A variable is basicaly a container, whatever we decide is going to be in that container can them be plugged into other places. Javascript will recognize the stored value of that variable and evaluate it as such.
+
 4. What is the purpose of using functions in code?
+
+Functions are basically like factories with the goal of getting something from point A to point B. Point A is our input(parameters), the function is HOW we get to point B, and then the output of the function is point B.
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade. 
 
